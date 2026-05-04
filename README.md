@@ -43,3 +43,4 @@ Customer, Employee, Product, Category, Supplier, SalesOrder, OrderDetail, Shippe
 Sales-Analysis-SQL/
 │── SQL Checkpoint 2.sql
 │── README.md
+│── Checkpoint -Problem Statement 02.pdf
